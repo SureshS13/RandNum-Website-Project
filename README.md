@@ -10,9 +10,9 @@ Currently in prototype stages. I.E solidifying the basic outline of the main pag
 
 Once complete, upcoming goals (tentative) are to:
 
-- Use localStorage and sessionStorage to store score counts.
+- Use localStorage and sessionStorage to store session high score counts.
 
-- Use Node.js with MySQL to create user functionality to store score counts.
+- Use Node.js with MySQL to create user functionality to store and show your personal all-time high score counts.
 
 - Add a high score page.
 
